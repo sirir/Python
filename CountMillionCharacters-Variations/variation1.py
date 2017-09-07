@@ -19,3 +19,5 @@ if __name__ == '__main__':
 
     inputFile = input_func("File Name : ")
     print(countchars(inputFile))
+
+    # added line here
